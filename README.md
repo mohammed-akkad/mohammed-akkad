@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Welcome"
-       src="https://readme-typing-svg.herokuapp.com?size=32&background=FFA945&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome">
+       src="https://readme-typing-svg.herokuapp.com?size=32&background=000000&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome">
 </p>
 
 I'm an Android developer with a passion for programming and continuous learning. Currently, I'm focused on Native Android development using Kotlin and following the MVVM architecture pattern with Google's recommended Architecture Components.
@@ -13,7 +13,7 @@ I'm an Android developer with a passion for programming and continuous learning.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="300">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="300">
 </p>
 
 ## Technologies
@@ -30,4 +30,4 @@ I'm an Android developer with a passion for programming and continuous learning.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-![Snake animation](https://github.com/mohammed-akkad/mohammed-akkad/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/mohammed-akkad/mohammed-akkad/blob/output/github-contribution-grid-snake.svg)
