@@ -18,14 +18,10 @@ I'm an Android developer with a passion for programming and continuous learning.
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-akkad&show_icons=true&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">
-</p>
-
-<p align="center">
+	
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-akkad&layout=compact&theme=react&hide_border=false" width="400">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">
+	
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">	
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammed-akkad&label=Profile%20views&color=ac0000&style=plastic" alt="mohammed-akkad" />
