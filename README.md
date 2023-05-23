@@ -12,8 +12,8 @@ I'm an Android developer with a passion for programming and continuous learning.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="300">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="300">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="350">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="350">
 </p>
 
 ## Technologies
