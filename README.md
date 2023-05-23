@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Hassan's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Hassan+.+.+.+.">
+	 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Mohammed">
 </p>
 
 I'm an Android developer with a passion for programming and continuous learning. Currently, I'm focused on Native Android development using Kotlin and following the MVVM architecture pattern with Google's recommended Architecture Components.
@@ -16,7 +16,7 @@ I'm an Android developer with a passion for programming and continuous learning.
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="350">
 </p> -->
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-akkad&show_icons=true&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">
 </p>
 
@@ -24,7 +24,7 @@ I'm an Android developer with a passion for programming and continuous learning.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-akkad&layout=compact&theme=react&hide_border=false" width="400">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">
 </p>
 
