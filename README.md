@@ -1,13 +1,13 @@
 <p align="center">
   <img alt="Welcome"
-       src="https://readme-typing-svg.herokuapp.com?size=32&background=000000&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome">
+       src="https://readme-typing-svg.herokuapp.com?size=32&background=0D1117&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome">
 </p>
 
 I'm an Android developer with a passion for programming and continuous learning. Currently, I'm focused on Native Android development using Kotlin and following the MVVM architecture pattern with Google's recommended Architecture Components.
 
-- 🌱 I’m currently learning **Native Android development** with [Kotlin](https://kotlinlang.org), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture).
+- 🌱 I’m currently learning **Native Android development** with [Kotlin](https://kotlinlang.org), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture)
 - 📧 Feel free to reach me via email at mohammed.sofyan.2001@gmail.com
-- 💼 Connect with me on [LinkedIn(https://www.linkedin.com/in/mohammed-sofyan-akkad/).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-sofyan-akkad/)
 
 ## 📈 GitHub Stats
 
