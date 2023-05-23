@@ -30,4 +30,4 @@ I'm an Android developer with a passion for programming and continuous learning.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-![Snake animation](https://github.com/mohammed-akkad/mohammed-akkad/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
