@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Welcome"
-       src="https://readme-typing-svg.herokuapp.com?size=32&background=0D1117&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Welcome">
+  <img alt="Hassan's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Hassan+.+.+.+.">
 </p>
 
 I'm an Android developer with a passion for programming and continuous learning. Currently, I'm focused on Native Android development using Kotlin and following the MVVM architecture pattern with Google's recommended Architecture Components.
@@ -11,10 +11,25 @@ I'm an Android developer with a passion for programming and continuous learning.
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="350">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="350">
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-akkad&show_icons=true&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-akkad&layout=compact&theme=react&hide_border=false" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-akkad&theme=react&hide_border=false&include_all_commits=false&count_private=true" width="400">
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammed-akkad&label=Profile%20views&color=ac0000&style=plastic" alt="mohammed-akkad" />
+		   <img src="https://img.shields.io/github/followers/mohammed-akkad?label=Followers&color=00aec3&style=plastic" alt="mohammed-akkad" /> </p>
 
 ## Technologies
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
